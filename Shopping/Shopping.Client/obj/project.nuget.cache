@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8Qhg7k0V0cZrXXIIoGRWaC2ApOaSY49qKSByjHV6e8oBLGVN+2IGZfUkFZB/oHOmFxbreogVqReFLqm8nrei5A==",
+  "dgSpecHash": "gDFG1wSQze1RSmITItWHRxk0a9SOz2kKFykZzMqrz+KVshiDyxiIerGbxmeCxuP191sjpHFgya/+ugQytn9c1Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kemet\\Source\\Repos\\run-devops\\Shopping\\Shopping.Client\\Shopping.Client.csproj",
+  "projectFilePath": "C:\\Users\\kemet\\source\\repos\\run-devops\\Shopping\\Shopping.Client\\Shopping.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kemet\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
     "C:\\Users\\kemet\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"

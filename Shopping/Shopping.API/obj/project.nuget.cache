@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TFuUCWmq9j0vdJqmyt9RKwo8Wp4hDuYf3HPo/HUojJUjLooaq/1n45y5Vmxnal5raAQD15h6r9CN2u5k5I04yw==",
+  "dgSpecHash": "FLwKlRb9UH+1o7HDf5j6FeWZyh9YdrGaPjgfjvuhwohLQrX79D+5CnsBXK13yBnElRBCBY91Ve1RiQelIDgehw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kemet\\Source\\Repos\\run-devops\\Shopping\\Shopping.API\\Shopping.API.csproj",
+  "projectFilePath": "C:\\Users\\kemet\\source\\repos\\run-devops\\Shopping\\Shopping.API\\Shopping.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kemet\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
     "C:\\Users\\kemet\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",

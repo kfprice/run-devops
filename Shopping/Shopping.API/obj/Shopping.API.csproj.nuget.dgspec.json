@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kemet\\Source\\Repos\\run-devops\\Shopping\\Shopping.API\\Shopping.API.csproj": {}
+    "C:\\Users\\kemet\\source\\repos\\run-devops\\Shopping\\Shopping.API\\Shopping.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kemet\\Source\\Repos\\run-devops\\Shopping\\Shopping.API\\Shopping.API.csproj": {
+    "C:\\Users\\kemet\\source\\repos\\run-devops\\Shopping\\Shopping.API\\Shopping.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kemet\\Source\\Repos\\run-devops\\Shopping\\Shopping.API\\Shopping.API.csproj",
+        "projectUniqueName": "C:\\Users\\kemet\\source\\repos\\run-devops\\Shopping\\Shopping.API\\Shopping.API.csproj",
         "projectName": "Shopping.API",
-        "projectPath": "C:\\Users\\kemet\\Source\\Repos\\run-devops\\Shopping\\Shopping.API\\Shopping.API.csproj",
+        "projectPath": "C:\\Users\\kemet\\source\\repos\\run-devops\\Shopping\\Shopping.API\\Shopping.API.csproj",
         "packagesPath": "C:\\Users\\kemet\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kemet\\Source\\Repos\\run-devops\\Shopping\\Shopping.API\\obj\\",
+        "outputPath": "C:\\Users\\kemet\\source\\repos\\run-devops\\Shopping\\Shopping.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kemet\\AppData\\Roaming\\NuGet\\NuGet.Config",
